@@ -11,7 +11,7 @@
 
 - C#
 - .NET
-- HTML5
+- HTML
 - CSS
 - SQL Server
 - Entity Framework
